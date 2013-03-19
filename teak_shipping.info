@@ -1,0 +1,10 @@
+name = Teak Shipping prices
+description = Provides teak shipping method
+package = Commerce (shipping)
+core = 7.x
+php = 5.3
+
+dependencies[] = commerce
+dependencies[] = commerce_shipping
+dependencies[] = xautoload
+
