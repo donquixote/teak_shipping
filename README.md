@@ -1,7 +1,12 @@
-This Drupal Commerce module calculates shipping rates for [teakmoebel.com](http://teakmoebel.com/).
+**Teak Shippping** is a Drupal Commerce module to calculate shipping rates for [teakmoebel.com](http://teakmoebel.com/).
+
+It's not directly usable for your website but it can be a great starting point 
+for complex shipping price calculations based on geographic elements (in this case
+distance, countries and provinces) and product category (e.g. tables, chairs, cabinets)
+with minimum and maximum pricing.
 
 
-(Published on github with the permission of the client.)
+The module was published on github with the permission of the client.
 
 
 ## Future
